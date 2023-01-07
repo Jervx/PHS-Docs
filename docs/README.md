@@ -68,7 +68,7 @@ Human **cannot** see infrared on the naked eye. But we can **feel** it in the fo
 PHS uses **Fan & Mist** to help reduce the pigs body **temperature**. PHS decide when to activate these components depending on the analyzed data from the camera & thermal camera.
 
 
-### Yolov5 custom trained
+### Yolov5 custom trained 
 
 PHS used a custom trained Yolov5 that is only trained to detect pig. The model is trained using the dataset we created in roboflow. It contains **11,374 images** of pigs. 
 
